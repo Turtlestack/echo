@@ -1,0 +1,4 @@
+.firebaserc
+firebase-debug.log
+node_modules/
+apphosting.local.yaml
